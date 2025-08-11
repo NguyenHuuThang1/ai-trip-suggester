@@ -1,0 +1,10 @@
+[
+  {
+    "query": "tôi thích biển và nghỉ dưỡng",
+    "relevant_places": ["Vũng Tàu", "Phú Quốc", "Nha Trang"]
+  },
+  {
+    "query": "tôi muốn đi vùng núi mát mẻ",
+    "relevant_places": ["Sapa", "Đà Lạt"]
+  }
+]

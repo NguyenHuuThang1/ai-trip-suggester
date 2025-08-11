@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "ten": "Sa Pa",
+    "mo_ta": "Thị trấn vùng cao nổi tiếng với cảnh núi non, bản làng dân tộc và khí hậu mát mẻ quanh năm.",
+    "vung": "Miền Bắc",
+    "loai": "Núi",
+    "chi_phi": 2500000
+  },
+  {
+    "id": 2,
+    "ten": "Hạ Long",
+    "mo_ta": "Vịnh Hạ Long có hàng nghìn đảo đá vôi kỳ vĩ và nhiều hang động nổi tiếng.",
+    "vung": "Miền Bắc",
+    "loai": "Biển",
+    "chi_phi": 3000000
+  },
+  {
+    "id": 3,
+    "ten": "Tam Đảo",
+    "mo_ta": "Khu nghỉ dưỡng trên núi với khí hậu mát mẻ và các địa điểm như nhà thờ đá, thác Bạc.",
+    "vung": "Miền Bắc",
+    "loai": "Núi",
+    "chi_phi": 2000000
+  },
+  {
+    "id": 4,
+    "ten": "Ninh Bình",
+    "mo_ta": "Nổi tiếng với Tràng An, Tam Cốc – Bích Động, đền vua Đinh – Lê.",
+    "vung": "Miền Bắc",
+    "loai": "Tâm linh",
+    "chi_phi": 1800000
+  },
+  {
+    "id": 5,
+    "ten": "Đà Nẵng",
+    "mo_ta": "Thành phố biển sạch đẹp với nhiều địa điểm như Cầu Rồng, Bà Nà Hills, biển Mỹ Khê.",
+    "vung": "Miền Trung",
+    "loai": "Biển",
+    "chi_phi": 3000000
+  },
+  {
+    "id": 6,
+    "ten": "Hội An",
+    "mo_ta": "Phố cổ yên bình với đèn lồng, kiến trúc cổ và ẩm thực đặc sắc.",
+    "vung": "Miền Trung",
+    "loai": "Lịch sử",
+    "chi_phi": 2700000
+  },
+  {
+    "id": 7,
+    "ten": "Huế",
+    "mo_ta": "Thành phố cố đô với kinh thành Huế, lăng tẩm và văn hóa cung đình.",
+    "vung": "Miền Trung",
+    "loai": "Tâm linh",
+    "chi_phi": 2800000
+  },
+  {
+    "id": 8,
+    "ten": "Phú Quốc",
+    "mo_ta": "Đảo ngọc phía Nam nổi tiếng với bãi biển hoang sơ và resort cao cấp.",
+    "vung": "Miền Nam",
+    "loai": "Biển",
+    "chi_phi": 4000000
+  },
+  {
+    "id": 9,
+    "ten": "Côn Đảo",
+    "mo_ta": "Quần đảo lịch sử với nhà tù Côn Đảo và thiên nhiên hoang sơ.",
+    "vung": "Miền Nam",
+    "loai": "Biển",
+    "chi_phi": 3500000
+  },
+  {
+    "id": 10,
+    "ten": "Đà Lạt",
+    "mo_ta": "Thành phố mộng mơ với rừng thông, hồ nước và khí hậu mát lạnh quanh năm.",
+    "vung": "Miền Trung",
+    "loai": "Núi",
+    "chi_phi": 2800000
+  },
+  {
+    "id": 11,
+    "ten": "Buôn Ma Thuột",
+    "mo_ta": "Thủ phủ cà phê, nơi có văn hóa Tây Nguyên đặc sắc và thác nước đẹp.",
+    "vung": "Miền Trung",
+    "loai": "Núi",
+    "chi_phi": 2600000
+  },
+  {
+    "id": 12,
+    "ten": "Bình Thuận",
+    "mo_ta": "Có Mũi Né với đồi cát bay, biển xanh, nhiều resort nghỉ dưỡng.",
+    "vung": "Miền Trung",
+    "loai": "Biển",
+    "chi_phi": 2500000
+  },
+  {
+    "id": 13,
+    "ten": "Tây Ninh",
+    "mo_ta": "Có núi Bà Đen, chùa Bà và là nơi tâm linh nổi bật ở Nam Bộ.",
+    "vung": "Miền Nam",
+    "loai": "Tâm linh",
+    "chi_phi": 2000000
+  },
+  {
+    "id": 14,
+    "ten": "Cần Thơ",
+    "mo_ta": "Thành phố miền Tây với chợ nổi Cái Răng và các vườn trái cây trù phú.",
+    "vung": "Miền Nam",
+    "loai": "Miệt vườn",
+    "chi_phi": 2200000
+  },
+  {
+    "id": 15,
+    "ten": "Bến Tre",
+    "mo_ta": "Nổi tiếng với dừa và du lịch sinh thái miệt vườn, sông nước.",
+    "vung": "Miền Nam",
+    "loai": "Miệt vườn",
+    "chi_phi": 1800000
+  },
+  {
+    "id": 16,
+    "ten": "Vũng Tàu",
+    "mo_ta": "Thành phố biển gần TP.HCM, thích hợp nghỉ ngắn ngày.",
+    "vung": "Miền Nam",
+    "loai": "Biển",
+    "chi_phi": 2000000
+  },
+  {
+    "id": 17,
+    "ten": "Hà Nội",
+    "mo_ta": "Thủ đô với nhiều điểm tham quan lịch sử, phố cổ và ẩm thực đường phố.",
+    "vung": "Miền Bắc",
+    "loai": "Lịch sử",
+    "chi_phi": 3000000
+  },
+  {
+    "id": 18,
+    "ten": "TP. Hồ Chí Minh",
+    "mo_ta": "Thành phố năng động, nhiều trung tâm thương mại và điểm văn hóa.",
+    "vung": "Miền Nam",
+    "loai": "Lịch sử",
+    "chi_phi": 3000000
+  },
+  {
+    "id": 19,
+    "ten": "Hà Giang",
+    "mo_ta": "Vùng cao nguyên đá với đèo Mã Pí Lèng, ruộng bậc thang, và văn hóa dân tộc.",
+    "vung": "Miền Bắc",
+    "loai": "Núi",
+    "chi_phi": 2700000
+  },
+  {
+    "id": 20,
+    "ten": "Lý Sơn",
+    "mo_ta": "Huyện đảo thuộc Quảng Ngãi, có núi lửa cổ và bãi biển trong xanh.",
+    "vung": "Miền Trung",
+    "loai": "Biển",
+    "chi_phi": 3200000
+  },
+  {
+    "id": 21,
+    "ten": "Hang Sơn Đoòng",
+    "mo_ta": "Hang động tự nhiên lớn nhất thế giới nằm ở Quảng Bình.",
+    "vung": "Miền Trung",
+    "loai": "Hang động",
+    "chi_phi": 4000000
+  },
+  {
+    "id": 22,
+    "ten": "Bà Nà Hills",
+    "mo_ta": "Khu nghỉ dưỡng trên núi gần Đà Nẵng với Cầu Vàng và cáp treo dài nhất Việt Nam.",
+    "vung": "Miền Trung",
+    "loai": "Núi",
+    "chi_phi": 3500000
+  },
+  {
+    "id": 23,
+    "ten": "Phong Nha",
+    "mo_ta": "Hang động và suối ngầm trong Vườn Quốc gia Phong Nha – Kẻ Bàng.",
+    "vung": "Miền Trung",
+    "loai": "Hang động",
+    "chi_phi": 3300000
+  },
+  {
+    "id": 24,
+    "ten": "Phong Nha – Kẻ Bàng",
+    "mo_ta": "Vườn quốc gia với hệ thống hang động khổng lồ, sông ngầm và đá vôi hùng vĩ.",
+    "vung": "Miền Trung",
+    "loai": "Hang động",
+    "chi_phi": 3300000
+  },
+  {
+    "id": 25,
+    "ten": "My Sơn",
+    "mo_ta": "Quần thể tháp Chăm cổ từ thế kỷ 4–13, di sản văn hóa độc đáo.",
+    "vung": "Miền Trung",
+    "loai": "Lịch sử",
+    "chi_phi": 2200000
+  },
+  {
+    "id": 26,
+    "ten": "Cửu Cung Đường Hầm Cá",
+    "mo_ta": "Khu di tích chiến tranh gồm hệ thống hầm nổi tiếng ở Củ Chi, TP.HCM.",
+    "vung": "Miền Nam",
+    "loai": "Lịch sử",
+    "chi_phi": 1500000
+  },
+  {
+    "id": 27,
+    "ten": "Công viên quốc gia Cúc Phương",
+    "mo_ta": "Công viên quốc gia đầu tiên và lớn nhất tại Việt Nam, nổi bật với hệ sinh thái đa dạng.",
+    "vung": "Miền Bắc",
+    "loai": "Thiên nhiên",
+    "chi_phi": 2000000
+  },
+  {
+    "id": 28,
+    "ten": "Tam Cốc – Bích Động",
+    "mo_ta": "Khu cảnh quan thiên nhiên đẹp như ‘Vịnh Hạ Long trên cạn’, gồm Tam Cốc sông và quần thể đền Bích Động.",
+    "vung": "Miền Bắc",
+    "loai": "Thiên nhiên",
+    "chi_phi": 1800000
+  },
+  {
+    "id": 29,
+    "ten": "Bái Đính",
+    "mo_ta": "Quần thể chùa lớn nhất Việt Nam, kết hợp kiến trúc hiện đại và cổ truyền, nhiều kỷ lục quốc gia.",
+    "vung": "Miền Bắc",
+    "loai": "Tâm linh",
+    "chi_phi": 1800000
+  },
+  {
+    "id": 30,
+    "ten": "Marble Mountains",
+    "mo_ta": "Nhóm núi đá cẩm thạch gần Đà Nẵng, nổi bật với hang động, chùa chiền và cảnh quan thiên nhiên.",
+    "vung": "Miền Trung",
+    "loai": "Thiên nhiên",
+    "chi_phi": 2000000
+  },
+  {
+    "id": 31,
+    "ten": "Cu Chi Tunnels",
+    "mo_ta": "Hệ thống hầm chiến tranh dưới lòng đất, nơi lưu giữ nhiều câu chuyện lịch sử thời chiến.",
+    "vung": "Miền Nam",
+    "loai": "Lịch sử",
+    "chi_phi": 1500000
+  }
+]
